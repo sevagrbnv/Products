@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Products</string>
+
+    <string name="retry">Retry</string>
+    <string name="error">Error</string>
+    <string name="network_error">Network error</string>
+    <string name="rating_value">%1$s ★</string>
+    <string name="discount_value">-%1$s%%</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="images">Картинки</string>
+    <string name="brand_value">Бренд: %1$s</string>
+    <string name="price_value">Цена: %1$s</string>
+    <string name="category_value">Категория: %1$s</string>
+</resources>
